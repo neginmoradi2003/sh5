@@ -1,1 +1,4 @@
-# sh5
+# shh
+public static void main(String[] args) Static Scanner input=new Scanner(System.in);{
+
+System.out.println("How many months are left until next summer?"); int x = input.nextInt(); x*30; System.out.print(x); }
